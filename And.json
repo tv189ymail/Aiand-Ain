@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://gitlab.com/Aiyouteng/happy/-/raw/main/Thejar/0729.jar",
+"spider":"https://gitlab.com/Aiyouteng/happy/-/raw/main/Thejar/07291.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL0FpeW91dGVuZy9oYXBweS8tL3Jhdy9tYWluL1RoZVRWL2xpdmUudHh0"
@@ -17,6 +17,7 @@
 {"key":"293视频","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_hbys","name":"📺简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 {"key": "zyys","name": "🏅众优影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
+{"key":"KanSJ_spider","name":"🏅看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gitlab.com/Aiyouteng/happy/-/raw/main/Thejar/qjksj.jar"},
 {"key": "csp_Xxys","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiyouteng/happy/-/raw/main/Thejar/custom_spider.jar"},
 {"key": "追剧喵","name": "🐱追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiyouteng/happy/-/raw/main/Thejar/qj.jar"},
 {"key": "神马影院","name": "🐴神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiyouteng/happy/-/raw/main/Thejar/custom_spider.jar"},
