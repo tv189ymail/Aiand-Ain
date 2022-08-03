@@ -20,7 +20,7 @@
 {"key":"KanSJ_spider","name":"🏅看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gitlab.com/Aiand/happy/-/raw/main/Thejar/qjksj.jar"},
 {"key": "csp_Xxys","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiand/happy/-/raw/main/Thejar/custom_spider.jar"},
 {"key": "追剧喵","name": "🐱追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiand/happy/-/raw/main/Thejar/qj.jar"},
-{"key": "神马影院","name": "🐴神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiand/happy/-/raw/main/Thejar/custom_spider.jar"},
+{"key": "神马影院","name": "🐴神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiand/happy/-/raw/main/Thejar/ts.jar"},
 //{"key": "小宝影院","name": "👶小宝影院(SP)","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitlab.com/Aiand/happy/-/raw/main/Thejar/custom_spider.jar"},
 {"key":"csp_Kuaikan","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长影视(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
