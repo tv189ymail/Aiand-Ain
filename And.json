@@ -4,7 +4,7 @@
 "spider":"https://gitlab.com/Aiand/happy/-/raw/main/Thejar/0804.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL0FuZC9oYXBweS8tL3Jhdy9tYWluL1RoZVRWL2xpdmUudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL0FpYW5kL2hhcHB5Ly0vcmF3L21haW4vVGhlVFYvbGl2ZS50eHQ="
 ]}]}],
 
 "sites":[
