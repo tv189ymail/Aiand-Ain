@@ -43,7 +43,6 @@ class Spider(Spider):  # 元类 默认的元类 type
         "☃️姬路白雪": "https://pan.jlbx.xyz",
         "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
         "💾DISK": "http://124.222.140.243:8080",
-        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
         "✨星梦": "https://pan.bashroot.top",
         "💫触光": "https://pan.ichuguang.com",
         "🕵️好汉吧": "https://8023.haohanba.cn",
